@@ -1,6 +1,6 @@
 # s21_LinuxNetwork
 
-Practical work. Linux networks configuration on virtual machines.
+Практическая работа по настройке сетей в Linux на виртуальных машинах.
 
 # Part 1 Инструмент ipcalc
 
